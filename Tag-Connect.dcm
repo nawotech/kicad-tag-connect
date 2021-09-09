@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TC2030-IDC-NL
+D Header, Tagconnect, 2x6, No pins, Footprint only
+K connector
+F https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf
+$ENDCMP
+#
+$CMP TC2030-IDC-NL_ESP
+D Header, Tagconnect, 2x6, No pins, Footprint only
+K connector
+F https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf
+$ENDCMP
+#
+#End Doc Library
