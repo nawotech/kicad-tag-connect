@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF TC2030-IDC-NL P 0 40 Y N 1 F N
 F0 "P" -50 -350 50 H V C CNN
 F1 "TC2030-IDC-NL" 75 -450 50 H V C CNN
-F2 "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical" 0 0 50 H I C CNN
+F2 "Tag-Connect:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
 C -50 -225 56 0 1 0 N
@@ -32,7 +32,7 @@ ENDDEF
 DEF TC2030-IDC-NL_ESP P 0 0 Y Y 1 F N
 F0 "P" -50 -450 50 H V C CNN
 F1 "TC2030-IDC-NL_ESP" 75 -550 50 H I C CNN
-F2 "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical" -450 450 50 H I C CNN
+F2 "Tag-Connect:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical" -450 450 50 H I C CNN
 F3 "" 0 -50 50 H I C CNN
 F4 "TC2030-IDC-NL" 50 -550 50 H V C CNN "Connector"
 DRAW
