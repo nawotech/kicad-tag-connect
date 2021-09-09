@@ -2,7 +2,7 @@
 Easy to use schematic symbols and PCB footprints for Tag Connect programming headers.
 
 # Why Tag Connect?
-See [this post](nawo.tech) for background/ info.
+See [this post](https://nawo.tech/the-standard-esp32-header) for background/ info.
 
 # Symbols
 | Symbol Name       | For Micro(s)          | Tag Connect Cable  |
